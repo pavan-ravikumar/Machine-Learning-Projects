@@ -1,1 +1,7 @@
 venv
+
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
